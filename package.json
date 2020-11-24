@@ -7,7 +7,7 @@
     "learn-npm",
     "project"
   ],
-  "version": "0.1.0",
+  "version": "2.10.2",
   "license": "MIT",
   "dependencies": {
     "express": "^4.14.0"
