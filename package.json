@@ -2,6 +2,11 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Alistair Vu",
   "description": "Stan LOONA",
+  "keywords": [
+    "freecodecamp",
+    "learn-npm",
+    "project"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
