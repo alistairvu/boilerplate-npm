@@ -1,6 +1,7 @@
- {
+{
   "name": "fcc-learn-npm-package-json",
   "author": "Alistair Vu",
+  "description": "Stan LOONA",
   "dependencies": {
     "express": "^4.14.0"
   },
